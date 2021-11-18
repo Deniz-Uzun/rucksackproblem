@@ -7,7 +7,7 @@ Dieses Repository wurde im Rahmen der Veranstaltung Spezielle Gebiete der Mathem
 - [Python](https://www.python.org/) ``3.x``
 - [Jupyter](https://jupyter.org/)
 
-**Additional Python packages**:
+**Verwendete Python-Bibliotheken**:
 - numpy
 - matplotlib
 - time
